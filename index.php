@@ -46,10 +46,7 @@
       <input type="checkbox" name="termo" id="termo" onchange="verifica(this);" > Li e aceito os termos e condições do contrato<br><br>
       
       <input type="submit" name="enviar" id="enviar" class="btn btn-success" value="Enviar" ></input>
-      <br>
-      <div class='alert alert-danger'>
-      <?php include 'teste.php';?>  
-      </div>
+      
       
       
     </form>
