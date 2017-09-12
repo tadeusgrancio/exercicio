@@ -1,0 +1,5 @@
+git status // verifica alterações no codigo comparado com o repositorio
+
+git add . //adiciona arquivos criados
+git commit -am //comita arquivos alterados
+git push // envia atualizações para git
